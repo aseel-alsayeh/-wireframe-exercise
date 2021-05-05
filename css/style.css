@@ -1,23 +1,20 @@
 * {box-sizing: border-box;}
 /* header */
-header {border: 1px solid blue;}
+
 header nav ul {
     display: inline-block;
-    border: 1px solid red;
     height: 70px;
     line-height: 70px;
     width: 70%;
     margin-left: 10px;
 }
 header nav ul li {display:inline-block ;
-    border: 1px solid green;
     height: 70px;
     line-height: 120px;
     margin-right: 70px;
 }
 
 header nav ul li a {
-    border:1px solid hotpink;
    line-height: 70px;
    position: relative;
     bottom: 25px;
@@ -25,7 +22,6 @@ header nav ul li a {
 }
 header nav {
     display: inline-block;
-    border:1px solid greenyellow;
     width:1030px;
     height: 120 px;
     background-color: gray;
