@@ -25,6 +25,7 @@ header nav {
     width:1030px;
     height: 120 px;
     background-color: gray;
+    margin-bottom: 25px;
 }
 
 header nav img { line-height: 120px;
